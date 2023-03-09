@@ -23,6 +23,3 @@ jobs:
         with:
           name: bb-select
           tag_name: bb-select
-          generate_release_notes: true
-          files: |
-            dist/*.tar.gz
